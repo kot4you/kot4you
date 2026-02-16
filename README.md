@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Igor Kocik 👋
 
-<!--
-**kot4you/kot4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year *Modelling & Data Science* student  
+📚 Relevant courses & certificates: see my *LinkedIn*  
+🔎 Open to *internships / junior roles* (Data / ML)
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏭 Industry / Commercial
+- *Corning — EBO connectors (case study)*  
+  Summary of scope, my role, and results (sanitized / no confidential code).  
+  👉 Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
+
+### ⚙️ Big Data / Engineering
+- *Kafka + Spark + Docker pipeline*  
+  Streaming pipeline with Docker Compose, Kafka topics, Spark processing.  
+  👉 Repo: https://github.com/kot4you/BIG-DATA-project
+
+### 🤖 AI / Machine Learning (course projects — one repo)
+- *AI course projects (monorepo)*  
+  A collection of 4 assignments:
+  - Task 4.1 — Fuzzy control (Pong)
+  - Task 4.2 — Search algorithms (Snake route finder)
+  - Task 4.3 — Single neuron (GUI + decision boundary)
+  - Task 4.4 — Shallow neural network (FCNN + MNIST)
+  👉 Repo: 
+
+## Tech stack
+- Python, SQL
+- ML: scikit-learn / PyTorch / TensorFlow
+- Data: pandas, NumPy
+- Big Data: Spark, Kafka, Docker
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/igor-kocik/
+- Email: igor.kocik@gmail.com

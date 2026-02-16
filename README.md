@@ -23,7 +23,7 @@
   - Task 4.2 — Search algorithms (Snake route finder)
   - Task 4.3 — Single neuron (GUI + decision boundary)
   - Task 4.4 — Shallow neural network (FCNN + MNIST)
-  👉 Repo: 
+  👉 Repo: https://github.com/kot4you/AI-FUNDAMENTALS-course-projects/tree/main
 
 ## Tech stack
 - Python, SQL

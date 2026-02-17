@@ -7,8 +7,8 @@
 ## Featured projects
 
 ### 🏭 Industry / Commercial
-- *Corning — EBO connectors (case study)*  
-  Summary of scope, my role, and results (sanitized / no confidential code).  
+- *Corning — EBO connectors*  
+  *look at the final project branch*  
   👉 Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
 
 ### ⚙️ Big Data / Engineering
@@ -16,7 +16,7 @@
   Streaming pipeline with Docker Compose, Kafka topics, Spark processing.  
   👉 Repo: https://github.com/kot4you/BIG-DATA-project
 
-### 🤖 AI / Machine Learning (course projects — one repo)
+### 🤖 AI / Machine Learning 
 - *AI course projects (monorepo)*  
   A collection of 4 assignments:
   - Task 4.1 — Fuzzy control (Pong)

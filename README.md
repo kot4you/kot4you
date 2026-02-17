@@ -19,10 +19,10 @@
 ### 🤖 AI / Machine Learning 
 - *AI course projects (monorepo)*  
   A collection of 4 assignments:
-  - Task 4.1 — Fuzzy control (Pong)
-  - Task 4.2 — Search algorithms (Snake route finder)
-  - Task 4.3 — Single neuron (GUI + decision boundary)
-  - Task 4.4 — Shallow neural network (FCNN + MNIST)
+  - Task 1 — Fuzzy control (Pong)
+  - Task 2 — Search algorithms (Snake route finder)
+  - Task 3 — Single neuron (GUI + decision boundary)
+  - Task 4 — Shallow neural network (FCNN + MNIST)
     
   👉 Repo: https://github.com/kot4you/AI-FUNDAMENTALS-course-projects/tree/main
 

@@ -26,6 +26,10 @@
     
   👉 Repo: https://github.com/kot4you/AI-FUNDAMENTALS-course-projects/tree/main
 
+- *ML — Voice Emotion Recognition*  
+  End-to-end speech emotion recognition pipeline: audio preprocessing, feature extraction (MFCC/ZCR/RMS), CNN model training, and evaluation.  
+  Repo: https://github.com/kot4you/Voice-Emotion-Recognition-ML-Model
+
 ## Tech stack
 - Python, SQL
 - ML: scikit-learn / PyTorch / TensorFlow
